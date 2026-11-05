@@ -13,3 +13,7 @@ authors:
 version: 1.0.0
 date-released: "2026-11-05"
 license: MIT
+identifiers:
+  - description: "Archived snapshot of v1.0.0"
+    type: doi
+    value: "10.5281/zenodo.23988410"
