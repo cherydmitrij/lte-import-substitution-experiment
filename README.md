@@ -2,7 +2,7 @@
 
 Simulation code, scripts and raw data for the paper:
 
-> Sobolev N.S., Cheryapkin D.P. "Experimental evaluation of telecom equipment replacement impact on LTE quality" (2026).
+> Sobolev N.S., Nikulin V.V., Cheryapkin D.P. "Experimental evaluation of telecom equipment replacement impact on LTE quality" (2026).
 
 ## Requirements
 - Ubuntu 24.04 LTS (or WSL2 on Windows)
