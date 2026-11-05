@@ -5,8 +5,11 @@ abstract: "Simulation code, scripts and raw data for the paper on telecom equipm
 authors:
   - family-names: Sobolev
     given-names: Nikolay S.
+  - family-names: Nikulin
+    given-names: Vladimir V.
   - family-names: Cheryapkin
     given-names: Dmitry P.
+    email: chery-dmitrij@live.com
 version: 1.0.0
 date-released: "2026-11-05"
 license: MIT
