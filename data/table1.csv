@@ -1,0 +1,4 @@
+load,foreign_mean,foreign_std,domestic_mean,domestic_std,delta_pct,delta_std_pct
+low,3.957,0.089,3.956,0.089,-0.03,0.05
+med,13.624,1.458,12.675,1.426,-7.00,1.08
+high,15.381,1.188,14.250,1.178,-7.38,1.25
