@@ -1,0 +1,12 @@
+=== ns-3 ===
+Build profile: default
+
+=== system ===
+Description:	Ubuntu 24.04.5 LTS
+g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+cmake version 3.28.3
+1.11.1
+Python 3.12.3
+
+=== 5G-LENA ===
+v3.0

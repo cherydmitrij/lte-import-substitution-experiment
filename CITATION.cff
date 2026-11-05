@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Reproduction package: LTE equipment replacement impact on throughput"
+abstract: "Simulation code, scripts and raw data for the paper on telecom equipment replacement impact on LTE quality."
+authors:
+  - family-names: Sobolev
+    given-names: Nikolay S.
+  - family-names: Cheryapkin
+    given-names: Dmitry P.
+version: 1.0.0
+date-released: "2026-11-05"
+license: MIT
